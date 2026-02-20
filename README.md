@@ -41,4 +41,4 @@ It works on both **mobile** and **desktop** screens.
 - Hover effect on button  
 - Simple, clean layout  
  
-**Hope you enjoy enjoy this project✨**                                                                                   
+**Hope you enjoy this project✨**                                                                                   
